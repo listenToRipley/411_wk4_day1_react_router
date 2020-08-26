@@ -31,5 +31,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Clone this repo and run `npm i` and then `npm start`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listenToRipley/411_wk4_day1_react_router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listenToRipley/411_wk4_day1_react_router/issues"
+  },
+  "homepage": "https://github.com/listenToRipley/411_wk4_day1_react_router#readme"
 }
